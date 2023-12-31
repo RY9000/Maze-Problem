@@ -72,7 +72,6 @@ int main()
 	}
 
 
-	/*** calculating using Dijkstra ***/
 	int x = 0, y = 0;//start from the first cell
 	pset[0].dis = 0; //initialize the first cell
 	pset[0].vis = 1;
